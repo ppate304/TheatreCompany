@@ -1,0 +1,34 @@
+.topnav a {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 90px;
+    background-color: rgb(5, 5, 5);
+    text-decoration: none;
+
+.header {
+    padding: 10px;
+    text-align: center;
+    background: none;
+
+img{ 
+    width: 100px;
+    float: middle; 
+}
+h1 {
+    color: black;
+}
+
+article {
+    margin: 50px;
+    padding-top: 100px;
+    width:200px;
+    height:150px
+    float: left; 
+
+}
+.date {
+    padding: 10px 60px;
+    float: right;
+}
